@@ -13,7 +13,7 @@
 
 - 📫 Reach me at: **spauly@umd.edu**
 
-- ⚡ A fact about me: **GGMU**
+<!-- - ⚡ A fact about me: **GGMU** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
