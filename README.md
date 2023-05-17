@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on **Robotics, AI, Psychology, Existence and Genetics**
 
-- 📫 Reach me at: **spauly@umd.edu**
+- 📫 Reach me at: **spauly@terpmail.umd.edu**
 
 <!-- - ⚡ A fact about me: **GGMU** -->
 
