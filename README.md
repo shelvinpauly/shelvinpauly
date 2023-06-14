@@ -3,13 +3,13 @@
 
 ![](https://komarev.com/ghpvc/?username=shelvinpauly&color=green)
 
-- 🔭 I’m currently working on **Software Development for Robotics**
+- 🔭 I’m currently working on **Ensemble Learning and Federated Learning**
 
-- 🌱 I’m proficient in **C++, Python and ROS**
+- 🌱 I’m proficient in **C++, Python, R and ROS**
 
-- 🤝 I’m interested in applications of **ML and DL in Robotics**
+- 🤝 I’m interested in applications of **Machine Learning Paradigms and how to leverage them in daily use cases**
 
-- 📝 I regularly write articles on **Robotics, AI, Psychology, Existence and Genetics**
+- 📝 I regularly write articles on **Robotics, AI, Data Science, and Sports**
 
 - 📫 Reach me at: **spauly@terpmail.umd.edu**
 
